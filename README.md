@@ -75,4 +75,23 @@
  - https://drive.google.com/file/d/17BOXv74_GxjDja6Cl7Q_riH6uc3ZYi0A/view?usp=sharing
  - https://drive.google.com/file/d/1YxfxbOGaShLaQrEfS5iheKL3Ch-VMGVB/view?usp=sharing
  
- 
+   ### 8. 제4회 빅스타(빅데이터*스타트업) 경진대회 (22/9/30 ~ 22/12/12)
+ - 과제 1 - 장기 천연가스 수요예측 모델 개발 일반 부문 : 1위 (대상)
+ - 수상 팀원 : 김가영, 안혜림, 박성은, 추영욱
+ - 주최/주관 : 한국가스공사
+ - 후원 : 마이크로소프트
+ - https://aifactory.space/competition/detail/2105
+ - https://news.unn.net/news/articleView.html?idxno=538843
+ - https://m.dhnews.co.kr/news/view/1065574533861041
+ - http://m.ujnews.co.kr/news/newsview.php?ncode=1065576941455325
+ - https://www.nocutnews.co.kr/news/5865222
+ - https://newsis.com/view/?id=NISX20221215_0002124108
+ - https://www.sentv.co.kr/news/view/640215
+ - https://news.nate.com/view/20221215n19463
+
+   ### 9. 제4회 빅스타(빅데이터*스타트업) 경진대회 (22/9/30 ~ 22/12/12)
+ - 과제 2 - 생산기지 BOG(Boil Off Gas : 증발가스) 최적가동을 위한 LNG 탱크 압력 예측 모델 개발 일반 부문 : 특별상
+ - 수상 팀원 : 이경화, 김정현, 김종영, 안중찬
+ - 주최/주관 : 한국가스공사
+ - 후원 : 마이크로소프트
+ - https://aifactory.space/competition/detail/2105
